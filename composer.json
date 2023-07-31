@@ -1,0 +1,19 @@
+{
+    "name": "spryker-feature/shipment-cart",
+    "description": "Shipment Cart [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202307.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/cart": "Recommended feature dependency."
+    }
+}
