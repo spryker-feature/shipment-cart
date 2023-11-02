@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker/shipment-type-cart": "^0.1.0"
+        "spryker/shipment-type-cart": "^1.0.0"
     },
     "extra": {
         "branch-alias": {
